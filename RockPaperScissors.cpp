@@ -10,7 +10,7 @@ int main(){
 
     std::cout << "Ready to Play? [Y/N]: ";
     std::cin >> start;
-    std::cout << start;
     if(start = 'Y'){
+        std::cout << "Playing game";
     };
 }
