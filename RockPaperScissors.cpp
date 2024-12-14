@@ -12,10 +12,5 @@ int main(){
     std::cin >> start;
     std::cout << start;
     if(start = 'Y'){
-        COM_Number(1);
     };
-}
-
-int COM_Number(int num){
-    return 0;
 }
