@@ -1,5 +1,6 @@
 #include <iostream>
 #include <cmath>
+#include "rpsFunctions.hpp"
 
 
 int main(){
@@ -11,6 +12,6 @@ int main(){
     std::cout << "Ready to Play? [Y/N]: ";
     std::cin >> start;
     if(start = 'Y'){
-        std::cout << "Playing game";
+        Play_Game();
     };
 }
