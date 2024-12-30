@@ -14,5 +14,10 @@ int main(){
     if(start = 'Y'){
         
         Play_Game();
+    }
+    else if (start = 'N')
+    {
+        End_Game();
     };
+    
 }
