@@ -14,6 +14,8 @@ int main(){
     if(start = 'Y'){
         
         Play_Game();
+        randNumCOM();
+        randomNum();
     }
     else if (start = 'N')
     {
